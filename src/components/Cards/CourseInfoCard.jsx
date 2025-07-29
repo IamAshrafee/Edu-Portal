@@ -3,7 +3,7 @@ import React from "react";
 const CourseInfoCard = ({cardImg, cardTitle, cardButton}) => {
   return (
     <div>
-      <div class=" max-w-sm w-full mx-auto bg-white border border-gray-200 rounded-lg shadow-sm dark:bg-gray-800 dark:border-gray-700">
+      <div class=" max-w-sm w-full mx-auto bg-white border border-gray-200 rounded-lg shadow-sm">
         <a href="#">
           <img
             class="rounded-t-lg"
@@ -13,13 +13,13 @@ const CourseInfoCard = ({cardImg, cardTitle, cardButton}) => {
         </a>
         <div class="p-5 flex flex-col items-center justify-center">
           <a href="#">
-            <h5 class="mb-2 text-2xl font-bold text-center tracking-tight text-gray-900 dark:text-white">
+            <h5 class="mb-2 text-2xl font-bold text-center tracking-tight text-gray-900">
               {cardTitle}
             </h5>
           </a>
           <a
             href="#"
-            class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
+            class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-gray-700 rounded-lg hover:bg-gray-800 focus:ring-4 focus:outline-none focus:ring-blue-300"
           >
             {cardButton}
             <svg

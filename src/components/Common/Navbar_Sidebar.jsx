@@ -36,7 +36,7 @@ const Navbar = ({ children }) => {
                   alt="FlowBite Logo"
                 />
                 <span class="self-center text-xl font-semibold sm:text-2xl whitespace-nowrap">
-                  Flowbite
+                  EduPortal
                 </span>
               </a>
             </div>
