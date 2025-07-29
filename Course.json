@@ -1,0 +1,87 @@
+{
+  "course": {
+    "name": "Class 11 (Pioneer Batch) HSC 2027",
+    "icon": "https://ums-public-cdn.udvash-unmesh.com/UmsStudyImage/2502/3c7b58ac-3d68-4e6d-b41a-cd762ab254cc.png",
+    "subjects": [
+      {
+        "name": "Physics 1st Paper",
+        "icon": "https://ums-public-cdn.udvash-unmesh.com/UmsStudyImage/2502/d260c868-9471-46d8-bb4c-2e9f593e3cf6.png",
+        "chapters": [
+          {
+            "name": "অধ্যায়-১ : ভৌতজগৎ ও পরিমাপ",
+            "contents": [
+              {
+                "type": "রেগুলার লাইভ ক্লাস",
+                "classes": [
+                  {
+                    "title": "Regular Class Physics 1st Paper Lecture-01",
+                    "subtitle": "Phy-I",
+                    "descriptionHeader": "অধ্যায়-১ ভৌত জগৎ ও পরিমাপ",
+                    "description": "পদার্থবিজ্ঞানের পরিসর, পদার্থবিজ্ঞান ও বিজ্ঞানের অন্যান্য শাখা, পদার্থবিজ্ঞানের ক্রমবিকাশ, পদার্থবিজ্ঞানের ধারণা, সূত্র, নীতি, স্বীকার্য, অনুকল্প এবং তত্ত্ব এর অর্থ, পরিমাপ, একক, মাত্রা, মাত্রা সমীকরণ, সমমাত্রিক নীতি, ভৌত রাশির মান এক একক পদ্ধতি হতে অন্য একক পদ্ধতিতে রূপান্তর, মাত্রা সমীকরণের সীমাবদ্ধতা, ত্রুটি, যান্ত্রিক ত্রুটি, পর্যবেক্ষণমূলক ত্রুটি, এলোমেলো বা বিক্ষিপ্ত ত্রুটি, পুনরাবৃত্তিক ত্রুটি, লঘিষ্ঠ গণন ত্রুটি,, পরিমাপ্য রাশির শুদ্ধতর মান নির্ধারণ, তাৎপর্যপূর্ণ অঙ্ক.",
+                    "videoSrc": "https://storage-r1.udvash-unmesh.com/ums-public-recording/Media/2507/Owner_10/b1395a63-3228-4e40-b235-a97605ad50c9.__638886094049444708.mp4?AWSAccessKeyId=read-re-f702f9938c5a44cf9bc7cc53fe96ccf7sdfgd&Expires=1753814826&Signature=otVk0YXSjKVqm3kIKf2WAsnfpqI%3D",
+                    "notesPDF": "https://storage-r3.udvash-unmesh.com/ums-public-study-materials/UmsStudyFiles/2507/CustomizedContent_15812/3de1a9d7-8c44-4592-8c90-69a3599843f8_2_%E0%A6%95%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%B8%20%E0%A6%A8%E0%A7%8B%E0%A6%9F_202507201151158547__638886091952665513.pdf?AWSAccessKeyId=read-sm-81993d6456b3415bb7cec48ad4ed839aghdfg&Expires=1753807666&Signature=n8sZ6pS%2BuDHAPnjZWDMq9b8VJcE%3D#toolbar=0"
+                  }
+                ]
+              },
+              {
+                "type": "ওয়ান শট ক্লাস",
+                "classes": []
+              },
+              {
+                "type": "আর্কাইভ ক্লাস",
+                "classes": []
+              },
+              {
+                "type": "Solve Class",
+                "classes": []
+              }
+            ]
+          },
+          {
+            "name": "অধ্যায়-২ : ভেক্টর"
+          },
+          {
+            "name": "অধ্যায়-৩ : গতিবিদ্যা"
+          },
+          {
+            "name": "অধ্যায়-৪ : নিউটনিয়ান বলবিদ্যা"
+          },
+          {
+            "name": "অধ্যায়-৫ : কাজ, শক্তি ও ক্ষমতা"
+          },
+          {
+            "name": "অধ্যায়-৬ : মহাকর্ষ ও অভিকর্ষ"
+          },
+          {
+            "name": "অধ্যায়-৭ : পদার্থের গাঠনিক ধর্ম"
+          },
+          {
+            "name": "অধ্যায়-৮ : পর্যাবৃত্ত গতি"
+          },
+          {
+            "name": "অধ্যায়-৯ : তরঙ্গ"
+          },
+          {
+            "name": "অধ্যায়-১০ : আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব"
+          }
+        ]
+      },
+      {
+        "name": "Chemistry 1st Paper",
+        "icon": "https://ums-public-cdn.udvash-unmesh.com/UmsStudyImage/2502/fc487713-7a90-4858-9b7b-b67fdf0d15da.png"
+      },
+      {
+        "name": "Higher Mathematics 1st Paper",
+        "icon": "https://ums-public-cdn.udvash-unmesh.com/UmsStudyImage/2502/a74d942e-8a8d-429f-9547-3a86c351db78.png"
+      },
+      {
+        "name": "Biology 1st Paper",
+        "icon": "https://ums-public-cdn.udvash-unmesh.com/UmsStudyImage/2502/d77d5266-d385-40d1-89d4-185fa5382b91.png"
+      },
+      {
+        "name": "Biology 2nd Paper",
+        "icon": "https://ums-public-cdn.udvash-unmesh.com/UmsStudyImage/2502/8da735f0-06eb-4bf2-97b0-8119e6f90d67.png"
+      }
+    ]
+  }
+}
