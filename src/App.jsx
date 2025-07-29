@@ -12,6 +12,14 @@ const router = createBrowserRouter([
     path: "/AdminHome",
     element: <AdminHome />,
   },
+  {
+    path: "/Login",
+    element: <AdminHome />,
+  },
+  {
+    path: "/Registration",
+    element: <AdminHome />,
+  },
 ]);
 
 const App = () => {
